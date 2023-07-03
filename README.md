@@ -33,7 +33,10 @@ cd pscan
 4. Build the program:
 
 ```shell
-go build
+go install github.com/fatih/color@latest
+go mod init pscan
+go get github.com/fatih/color
+go run pscan_v1.go -ip 192.168.1.0/24 -ports 80,443 -onlyopen -ultrafast
 ```
 
 5. Run the port scanner:
