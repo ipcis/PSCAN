@@ -1,4 +1,3 @@
-```markdown
 ## PSCAN
 
 PSCAN is a simple Go program that can be used to check the availability of TCP ports on a target IP address range.
