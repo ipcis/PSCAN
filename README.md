@@ -52,7 +52,7 @@ go build
 Example:
 
 ```shell
-./pscan -ip 192.168.0.0/24 -ports 80,443 -timeout 5 -debug -onlyopen
+./pscan -ip 192.168.0.0/24 -ports 80,443 -timeout 5 -onlyopen
 ```
 
 6. The program will now scan the specified IP address range and display the results.
