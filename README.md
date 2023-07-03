@@ -19,7 +19,7 @@ PSCAN is a simple Go program that can be used to check the availability of TCP p
 2. Clone the repository:
 
 ```shell
-git clone https://github.com/ipcis/pscan.git
+git clone [https://github.com/ipcis/pscan.git](https://github.com/ipcis/PSCAN.git)
 ```
 
 3. Navigate to the project directory:
