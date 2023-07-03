@@ -11,6 +11,7 @@ PSCAN is a simple Go program that can be used to check the availability of TCP p
 - Option to enable debug mode for detailed output of the scanning process
 - Option to enable ultrafast mode for faster scans
 - Option to display only open ports
+```
 
 ## Usage
 
